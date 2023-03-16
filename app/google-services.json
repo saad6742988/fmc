@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "977296694012",
+    "project_id": "fir-messagingnotificatio-df4ad",
+    "storage_bucket": "fir-messagingnotificatio-df4ad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977296694012:android:ed4716895689b745349579",
+        "android_client_info": {
+          "package_name": "com.example.firebasemessagingnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977296694012-prmssq558a1h782mk05kvh5dg297reof.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzJQckn3zbmY1Q4kk1hHY9TF_3HGMYz0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977296694012-prmssq558a1h782mk05kvh5dg297reof.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
